@@ -1,5 +1,5 @@
 # pogeton.com :artist:
-#### Website for the Church of St. Nicholas.
+#### Website for a young design studio.
 
 ## Overview :eyes:
 
